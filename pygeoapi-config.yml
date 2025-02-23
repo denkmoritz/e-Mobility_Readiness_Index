@@ -1,0 +1,21 @@
+server:
+  url: http://localhost:5000
+  bind: 0.0.0.0:80
+  cors: true
+
+logging:
+  level: DEBUG
+
+providers:
+  - type: feature
+    name: postgis
+    data:
+      dialect: postgis
+      host: postgis
+      port: 5432
+      dbname: SII_database
+      user: admin
+      password: passwort
+      search_path: public
+    options:
+      table: my_geodata
