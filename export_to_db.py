@@ -1,5 +1,4 @@
 import os
-import psycopg2
 import pandas as pd
 from db import get_db_connection  # Import your DB connection function
 
@@ -17,8 +16,8 @@ TABLE_SCHEMA = """
     CREATE TABLE IF NOT EXISTS {table_name} (
         Name TEXT,
         Bundesland TEXT,
-        "2020" NUMERIC,
-        "2021" NUMERIC
+        "2020" DOUBLE PRECISION,
+        "2021" DOUBLE PRECISION
     );
 """
 
@@ -60,7 +59,7 @@ def import_csv_to_postgis(csv_file_path, table_name):
         df = df[expected_columns]
 
         # Convert dataframe to list of tuples for insertion
-        data_tuples = [tuple(x) for x in df.to_records(index=False)]
+        data_tuples = [(row[0], row[1], float(row[2]), float(row[3])) for row in df.to_records(index=False)]
 
         # Insert data into the table
         insert_query = f"""
@@ -70,7 +69,7 @@ def import_csv_to_postgis(csv_file_path, table_name):
         cur.executemany(insert_query, data_tuples)
 
         conn.commit()
-        print(f"📂 Imported {len(df)} rows into `{table_name}`!")
+        print(f"Imported {len(df)} rows into `{table_name}`!")
 
     except Exception as e:
         conn.rollback()
