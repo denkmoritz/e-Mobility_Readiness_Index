@@ -4,7 +4,8 @@ volumes:
 services:
 
   db:
-    image: kartoza/postgis:17-3.5
+    image: nilswey/sii_database
+    container_name: sii_db
     volumes:
       - postgis-data:/var/lib/postgresql
     environment:
