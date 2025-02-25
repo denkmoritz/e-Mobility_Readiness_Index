@@ -15,3 +15,9 @@ git clone https://github.com/denkmoritz/e-Mobility_Readiness_Index.git
 ```bash
 cd e-Mobility_Reainess_Index
 ```
+
+### 2 start docker
+
+```bash
+docker compose up -d
+```

@@ -1,23 +1,35 @@
+volumes:
+  postgis-data:
+
 services:
-  postgis:
-    image: postgis/postgis:15-3.3
-    container_name: postgis
-    restart: always
-    environment:
-      POSTGRES_DB: SII_database
-      POSTGRES_USER: admin
-      POSTGRES_PASSWORD: passwort
-    ports:
-      - "5432:5432"
+
+  db:
+    image: kartoza/postgis:17-3.5
     volumes:
-      - postgis_data:/var/lib/postgresql/data
+      - postgis-data:/var/lib/postgresql
+    environment:
+      # If you need to create multiple database you can add coma separated databases eg gis,data
+      - POSTGRES_DB=gis
+      - POSTGRES_HOST=admin
+      - POSTGRES_USER=docker
+      - POSTGRES_PASS=docker
+      - ALLOW_IP_RANGE=0.0.0.0/0
+      # Add extensions you need to be enabled by default in the DB. Default are the five specified below
+      - POSTGRES_MULTIPLE_EXTENSIONS=postgis,hstore,postgis_topology,postgis_raster,pgrouting
+      - RUN_AS_ROOT=true
+    ports:
+      - "25432:5432"
+    restart: on-failure
+    healthcheck:
+      test: "PGPASSWORD=docker pg_isready -h 127.0.0.1 -U docker -d gis"
 
   pygeoapi:
     image: geopython/pygeoapi:latest
     container_name: pygeoapi
-    restart: always
+    restart: on-failure
     depends_on:
-      - postgis
+      db:
+        condition: service_healthy
     ports:
       - "5000:80"
     volumes:
@@ -25,6 +37,3 @@ services:
     environment:
       PYGEOAPI_CONFIG: /pygeoapi/local.config.yml
       PYGEOAPI_OPENAPI: /pygeoapi/openapi.yml
-
-volumes:
-  postgis_data:
