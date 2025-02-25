@@ -15,6 +15,7 @@ TABLE_MAPPING = {
 TABLE_SCHEMA = """
     CREATE TABLE IF NOT EXISTS {table_name} (
         Name TEXT,
+        ID TEXT,
         Bundesland TEXT,
         "2020" DOUBLE PRECISION,
         "2021" DOUBLE PRECISION
@@ -52,19 +53,20 @@ def import_csv_to_postgis(csv_file_path, table_name):
 
     try:
         # Read CSV with German formatting
-        df = pd.read_csv(csv_file_path, sep=";", decimal=",")
+        df = pd.read_csv(csv_file_path, sep=";", decimal=",", dtype={"ID": str})
 
         # Ensure column names match expected format
-        expected_columns = ["Name", "Bundesland", "2020", "2021"]
+        expected_columns = ["Name", "ID", "Bundesland", "2020", "2021"]
         df = df[expected_columns]
+        print(df.head)
 
         # Convert dataframe to list of tuples for insertion
-        data_tuples = [(row[0], row[1], float(row[2]), float(row[3])) for row in df.to_records(index=False)]
+        data_tuples = [(row[0], row[1], row[2], float(row[3]), float(row[4])) for row in df.to_records(index=False)]
 
         # Insert data into the table
         insert_query = f"""
-            INSERT INTO {table_name} (Name, Bundesland, "2020", "2021")
-            VALUES (%s, %s, %s, %s)
+            INSERT INTO {table_name} (Name, ID, Bundesland, "2020", "2021")
+            VALUES (%s, %s, %s, %s, %s)
         """
         cur.executemany(insert_query, data_tuples)
 
