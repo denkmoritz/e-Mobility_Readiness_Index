@@ -8,14 +8,12 @@ logging:
 
 providers:
   - type: feature
-    name: postgis
+    name: gis
     data:
       dialect: postgis
-      host: postgis
+      host: localhost
       port: 5432
-      dbname: SII_database
-      user: admin
-      password: passwort
+      dbname: gis
+      user: docker
+      password: docker
       search_path: public
-    options:
-      table: my_geodata

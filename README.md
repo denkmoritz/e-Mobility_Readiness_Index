@@ -18,6 +18,10 @@ cd e-Mobility_Reainess_Index
 
 ### 2 start docker
 
+das aktuelle docker compose enthält die Datenbank mit den entsprechenden Daten.
+Wenn ihr die via PGAdmin einsehen wollt müsst ihr die verbinden. die config daten stehen in den Dateien.
+wichtig ist dass die verbindung über localhost läuft (erstes feld).
+
 ```bash
 docker compose up -d
 ```
