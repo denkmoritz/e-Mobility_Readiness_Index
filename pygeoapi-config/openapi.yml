@@ -1,5 +1,140 @@
 openapi: 3.0.0
 info:
-  title: PyGeoAPI
+  title: e-Mobility Readiness Index API
   version: "1.0"
-paths: {}
+  description: API for accessing the e-Mobility Readiness Index (EMRI) data.
+
+paths:
+  /oapi/collections/emri:
+    get:
+      summary: Get e-Mobility Readiness Index Collection
+      description: Get metadata about the e-Mobility Readiness Index collection.
+      responses:
+        '200':
+          description: A list of metadata about the EMRI collection.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  title:
+                    type: string
+                    example: e-Mobility Readiness Index
+                  description:
+                    type: string
+                    example: e-Mobility Readiness Index (EMRI) for German districts and cities.
+                  links:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        rel:
+                          type: string
+                          example: self
+                        href:
+                          type: string
+                          example: http://localhost:3456/oapi/collections/emri
+
+  /oapi/collections/emri/items:
+    get:
+      summary: Get e-Mobility Readiness Index Items
+      description: Get the EMRI data in GeoJSON format.
+      parameters:
+        - name: f
+          in: query
+          description: The output format (either `geojson` or `json`).
+          required: false
+          schema:
+            type: string
+            enum:
+              - geojson
+              - json
+            default: geojson
+      responses:
+        '200':
+          description: A list of EMRI data items in GeoJSON format.
+          content:
+            application/geo+json:
+              schema:
+                type: object
+                properties:
+                  type:
+                    type: string
+                    example: FeatureCollection
+                  features:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        type:
+                          type: string
+                          example: Feature
+                        geometry:
+                          type: object
+                          properties:
+                            type:
+                              type: string
+                              example: Point
+                            coordinates:
+                              type: array
+                              items:
+                                type: number
+                        properties:
+                          type: object
+                          properties:
+                            id:
+                              type: integer
+                              example: 1
+                            name:
+                              type: string
+                              example: Berlin
+                            bundesland:
+                              type: string
+                              example: Berlin
+                            emri_2020:
+                              type: number
+                              example: 85.6
+                            emri_2021:
+                              type: number
+                              example: 87.4
+
+components:
+  schemas:
+    FeatureCollection:
+      type: object
+      properties:
+        type:
+          type: string
+        features:
+          type: array
+          items:
+            $ref: '#/components/schemas/Feature'
+    Feature:
+      type: object
+      properties:
+        type:
+          type: string
+        geometry:
+          $ref: '#/components/schemas/Geometry'
+        properties:
+          type: object
+          properties:
+            id:
+              type: integer
+            name:
+              type: string
+            bundesland:
+              type: string
+            emri_2020:
+              type: number
+            emri_2021:
+              type: number
+    Geometry:
+      type: object
+      properties:
+        type:
+          type: string
+        coordinates:
+          type: array
+          items:
+            type: number
