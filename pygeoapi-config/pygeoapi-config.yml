@@ -1,0 +1,123 @@
+# =================================================================
+#
+# Authors: Gruppe 01.03
+#
+# Copyright (c) 2025 Your Organization
+#
+# Licensed under the MIT License.
+#
+# =================================================================
+
+server:
+    bind:
+        host: 0.0.0.0
+        port: 3456
+    url: http://localhost:3456
+    mimetype: application/json; charset=UTF-8
+    encoding: utf-8
+    gzip: true
+    languages:
+        - en-US  # Default language
+        - de-DE  # German support
+    cors: true
+    pretty_print: true
+    limit: 100
+
+    map:
+        url: https://tile.openstreetmap.org/{z}/{x}/{y}.png
+        attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+    admin: false
+
+logging:
+    level: INFO
+    logfile: ./pygeoapi.log  # Logs in the current project directory
+
+metadata:
+    identification:
+        title:
+            en: e-Mobility Readiness Index API
+            de: API für den e-Mobility Readiness Index
+        description:
+            en: API providing e-Mobility Readiness Index (EMRI) data for German districts and cities.
+            de: API zur Bereitstellung von EMRI-Daten für deutsche Städte und Landkreise.
+        keywords:
+            en:
+                - mobility
+                - electric vehicles
+                - charging infrastructure
+                - renewable energy
+            de:
+                - Mobilität
+                - Elektrofahrzeuge
+                - Ladeinfrastruktur
+                - Erneuerbare Energien
+        keywords_type: theme
+        terms_of_service: https://creativecommons.org/licenses/by/4.0/
+        url: https://your-organization.com
+    license:
+        name: CC-BY 4.0 license
+        url: https://creativecommons.org/licenses/by/4.0/
+    provider:
+        name: Your Organization Name
+        url: https://your-organization.com
+    contact:
+        name: John Doe
+        position: Data Manager
+        address: Example Street 123
+        city: Berlin
+        stateorprovince: Berlin
+        postalcode: 10115
+        country: Germany
+        email: contact@your-organization.com
+        url: https://your-organization.com/contact
+        hours: Mo-Fr 08:00-17:00 CET
+        instructions: Support available during business hours.
+        role: pointOfContact
+
+resources:
+  emri:
+    type: collection
+    title: e-Mobility Readiness Index
+    description: e-Mobility Readiness Index (EMRI) for German districts and cities.
+    keywords:
+      - mobility
+      - charging stations
+      - electric vehicles
+      - renewable energy
+      - Germany
+    extents:
+      spatial:
+        bbox: [5.866, 47.270, 15.042, 55.058]  # Approximate bounding box for Germany
+        crs: http://www.opengis.net/def/crs/OGC/1.3/CRS84
+    providers:
+      - type: feature
+        name: PostgreSQL
+        data:
+          host: localhost  # Change if running in Docker (e.g., "host.docker.internal")
+          port: 25432
+          dbname: gis
+          user: docker
+          password: docker
+          search_path: public
+          table: emri
+          id_field: id  # Primary key field
+          geom_field: geometry  # Geometry column (WGS 84 - SRID 4326)
+          srid: 4326
+          properties:
+            name: Name  # City or District Name
+            bundesland: bundesland  # Federal State
+            emri_2020: data_index_2020  # EMRI Score for 2020
+            emri_2021: data_index_2021  # EMRI Score for 2021
+    links:
+      - rel: self
+        type: application/json
+        title: This API
+        href: http://localhost:3456/collections/emri
+      - rel: alternate
+        type: text/html
+        title: HTML Version
+        href: http://localhost:3456/collections/emri.html
+      - rel: data
+        type: application/geo+json
+        title: GeoJSON Data
+        href: http://localhost:3456/collections/emri/items?f=geojson

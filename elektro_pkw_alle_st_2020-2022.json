@@ -1,0 +1,2936 @@
+{
+    "regionsAndRegionFilters": [
+        {
+            "friendlyUrl": "staedte",
+            "name": "106 Kommunen",
+            "title": "Kreisfreie Städte",
+            "regionTypes": [
+                {
+                    "id": "KREISFREIE_STADT",
+                    "name": "kreisfreie Stadt"
+                }
+            ],
+            "demographicTypes": [],
+            "parents": [],
+            "populations": [],
+            "gkzs": [],
+            "regions": [
+                {
+                    "friendlyUrl": "amberg",
+                    "name": "Amberg",
+                    "title": "Amberg, kreisfreie Stadt",
+                    "id": 4558,
+                    "gkz": "09361000",
+                    "ars": "093610000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "ansbach",
+                    "name": "Ansbach",
+                    "title": "Ansbach, kreisfreie Stadt",
+                    "id": 5014,
+                    "gkz": "09561000",
+                    "ars": "095610000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "aschaffenburg",
+                    "name": "Aschaffenburg",
+                    "title": "Aschaffenburg, kreisfreie Stadt",
+                    "id": 5231,
+                    "gkz": "09661000",
+                    "ars": "096610000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "augsburg",
+                    "name": "Augsburg",
+                    "title": "Augsburg, kreisfreie Stadt",
+                    "id": 5548,
+                    "gkz": "09761000",
+                    "ars": "097610000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "baden-baden",
+                    "name": "Baden-Baden",
+                    "title": "Baden-Baden, kreisfreie Stadt",
+                    "id": 2988,
+                    "gkz": "08211000",
+                    "ars": "082110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 10,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "bamberg",
+                    "name": "Bamberg",
+                    "title": "Bamberg, kreisfreie Stadt",
+                    "id": 4791,
+                    "gkz": "09461000",
+                    "ars": "094610000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "bayreuth",
+                    "name": "Bayreuth",
+                    "title": "Bayreuth, kreisfreie Stadt",
+                    "id": 4792,
+                    "gkz": "09462000",
+                    "ars": "094620000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "berlin",
+                    "name": "Berlin",
+                    "title": "Berlin",
+                    "id": 5957,
+                    "gkz": "11000000",
+                    "ars": "110000000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Deutschland"
+                },
+                {
+                    "friendlyUrl": "bielefeld",
+                    "name": "Bielefeld",
+                    "title": "Bielefeld, kreisfreie Stadt",
+                    "id": 1829,
+                    "gkz": "05711000",
+                    "ars": "057110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "bochum",
+                    "name": "Bochum",
+                    "title": "Bochum, kreisfreie Stadt",
+                    "id": 1905,
+                    "gkz": "05911000",
+                    "ars": "059110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "bonn",
+                    "name": "Bonn",
+                    "title": "Bonn, kreisfreie Stadt",
+                    "id": 1639,
+                    "gkz": "05314000",
+                    "ars": "053140000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "bottrop",
+                    "name": "Bottrop",
+                    "title": "Bottrop, kreisfreie Stadt",
+                    "id": 1746,
+                    "gkz": "05512000",
+                    "ars": "055120000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "brandenburg-an-der-havel",
+                    "name": "Brandenburg an der Havel",
+                    "title": "Brandenburg an der Havel, kreisfreie Stadt",
+                    "id": 5959,
+                    "gkz": "12051000",
+                    "ars": "120510000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Brandenburg"
+                },
+                {
+                    "friendlyUrl": "braunschweig",
+                    "name": "Braunschweig",
+                    "title": "Braunschweig, kreisfreie Stadt",
+                    "id": 1122,
+                    "gkz": "03101000",
+                    "ars": "031010000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "bremen",
+                    "name": "Bremen",
+                    "title": "Bremen, kreisfreie Stadt",
+                    "id": 1565,
+                    "gkz": "04011000",
+                    "ars": "040110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bremen"
+                },
+                {
+                    "friendlyUrl": "bremerhaven",
+                    "name": "Bremerhaven",
+                    "title": "Bremerhaven, kreisfreie Stadt",
+                    "id": 1566,
+                    "gkz": "04012000",
+                    "ars": "040120000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bremen"
+                },
+                {
+                    "friendlyUrl": "chemnitz",
+                    "name": "Chemnitz",
+                    "title": "Chemnitz, kreisfreie Stadt",
+                    "id": 7120,
+                    "gkz": "14511000",
+                    "ars": "145110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Sachsen"
+                },
+                {
+                    "friendlyUrl": "coburg",
+                    "name": "Coburg",
+                    "title": "Coburg, kreisfreie Stadt",
+                    "id": 4793,
+                    "gkz": "09463000",
+                    "ars": "094630000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "cottbus",
+                    "name": "Cottbus",
+                    "title": "Cottbus, kreisfreie Stadt",
+                    "id": 5960,
+                    "gkz": "12052000",
+                    "ars": "120520000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Brandenburg"
+                },
+                {
+                    "friendlyUrl": "darmstadt",
+                    "name": "Darmstadt",
+                    "title": "Darmstadt, kreisfreie Stadt",
+                    "id": 1996,
+                    "gkz": "06411000",
+                    "ars": "064110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Hessen"
+                },
+                {
+                    "friendlyUrl": "delmenhorst",
+                    "name": "Delmenhorst",
+                    "title": "Delmenhorst, kreisfreie Stadt",
+                    "id": 1413,
+                    "gkz": "03401000",
+                    "ars": "034010000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "dessau-rosslau",
+                    "name": "Dessau-Roßlau",
+                    "title": "Dessau-Roßlau, kreisfreie Stadt",
+                    "id": 7549,
+                    "gkz": "15001000",
+                    "ars": "150010000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 1,
+                    "parent": "Sachsen-Anhalt"
+                },
+                {
+                    "friendlyUrl": "dortmund",
+                    "name": "Dortmund",
+                    "title": "Dortmund, kreisfreie Stadt",
+                    "id": 1906,
+                    "gkz": "05913000",
+                    "ars": "059130000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "dresden",
+                    "name": "Dresden",
+                    "title": "Dresden, kreisfreie Stadt",
+                    "id": 7306,
+                    "gkz": "14612000",
+                    "ars": "146120000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Sachsen"
+                },
+                {
+                    "friendlyUrl": "duisburg",
+                    "name": "Duisburg",
+                    "title": "Duisburg, kreisfreie Stadt",
+                    "id": 1569,
+                    "gkz": "05112000",
+                    "ars": "051120000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "duesseldorf",
+                    "name": "Düsseldorf",
+                    "title": "Düsseldorf, kreisfreie Stadt",
+                    "id": 1568,
+                    "gkz": "05111000",
+                    "ars": "051110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "emden",
+                    "name": "Emden",
+                    "title": "Emden, kreisfreie Stadt",
+                    "id": 1414,
+                    "gkz": "03402000",
+                    "ars": "034020000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "erfurt",
+                    "name": "Erfurt",
+                    "title": "Erfurt, kreisfreie Stadt",
+                    "id": 7683,
+                    "gkz": "16051000",
+                    "ars": "160510000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Thüringen"
+                },
+                {
+                    "friendlyUrl": "erlangen",
+                    "name": "Erlangen",
+                    "title": "Erlangen, kreisfreie Stadt",
+                    "id": 5015,
+                    "gkz": "09562000",
+                    "ars": "095620000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 11,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "essen",
+                    "name": "Essen",
+                    "title": "Essen, kreisfreie Stadt",
+                    "id": 1570,
+                    "gkz": "05113000",
+                    "ars": "051130000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "flensburg",
+                    "name": "Flensburg",
+                    "title": "Flensburg, kreisfreie Stadt",
+                    "id": 3,
+                    "gkz": "01001000",
+                    "ars": "010010000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Schleswig-Holstein"
+                },
+                {
+                    "friendlyUrl": "frankenthal-pfalz",
+                    "name": "Frankenthal (Pfalz)",
+                    "title": "Frankenthal (Pfalz), kreisfreie Stadt",
+                    "id": 2543,
+                    "gkz": "07311000",
+                    "ars": "073110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "frankfurt-am-main",
+                    "name": "Frankfurt am Main",
+                    "title": "Frankfurt am Main, kreisfreie Stadt",
+                    "id": 1997,
+                    "gkz": "06412000",
+                    "ars": "064120000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Hessen"
+                },
+                {
+                    "friendlyUrl": "frankfurt-oder",
+                    "name": "Frankfurt (Oder)",
+                    "title": "Frankfurt (Oder), kreisfreie Stadt",
+                    "id": 5961,
+                    "gkz": "12053000",
+                    "ars": "120530000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Brandenburg"
+                },
+                {
+                    "friendlyUrl": "freiburg-im-breisgau",
+                    "name": "Freiburg im Breisgau",
+                    "title": "Freiburg im Breisgau, kreisfreie Stadt",
+                    "id": 3205,
+                    "gkz": "08311000",
+                    "ars": "083110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "fuerth",
+                    "name": "Fürth",
+                    "title": "Fürth, kreisfreie Stadt",
+                    "id": 5016,
+                    "gkz": "09563000",
+                    "ars": "095630000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "gelsenkirchen",
+                    "name": "Gelsenkirchen",
+                    "title": "Gelsenkirchen, kreisfreie Stadt",
+                    "id": 1747,
+                    "gkz": "05513000",
+                    "ars": "055130000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "gera",
+                    "name": "Gera",
+                    "title": "Gera, kreisfreie Stadt",
+                    "id": 7684,
+                    "gkz": "16052000",
+                    "ars": "160520000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Thüringen"
+                },
+                {
+                    "friendlyUrl": "hagen",
+                    "name": "Hagen",
+                    "title": "Hagen, kreisfreie Stadt",
+                    "id": 1907,
+                    "gkz": "05914000",
+                    "ars": "059140000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "halle-saale",
+                    "name": "Halle (Saale)",
+                    "title": "Halle (Saale), kreisfreie Stadt",
+                    "id": 7550,
+                    "gkz": "15002000",
+                    "ars": "150020000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Sachsen-Anhalt"
+                },
+                {
+                    "friendlyUrl": "hamburg",
+                    "name": "Hamburg",
+                    "title": "Hamburg",
+                    "id": 1120,
+                    "gkz": "02000000",
+                    "ars": "020000000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Deutschland"
+                },
+                {
+                    "friendlyUrl": "hamm",
+                    "name": "Hamm",
+                    "title": "Hamm, kreisfreie Stadt",
+                    "id": 1908,
+                    "gkz": "05915000",
+                    "ars": "059150000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "heidelberg",
+                    "name": "Heidelberg",
+                    "title": "Heidelberg, kreisfreie Stadt",
+                    "id": 3047,
+                    "gkz": "08221000",
+                    "ars": "082210000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 11,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "heilbronn",
+                    "name": "Heilbronn",
+                    "title": "Heilbronn, kreisfreie Stadt",
+                    "id": 2818,
+                    "gkz": "08121000",
+                    "ars": "081210000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "herne",
+                    "name": "Herne",
+                    "title": "Herne, kreisfreie Stadt",
+                    "id": 1909,
+                    "gkz": "05916000",
+                    "ars": "059160000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "hof",
+                    "name": "Hof",
+                    "title": "Hof, kreisfreie Stadt",
+                    "id": 4794,
+                    "gkz": "09464000",
+                    "ars": "094640000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "ingolstadt",
+                    "name": "Ingolstadt",
+                    "title": "Ingolstadt, kreisfreie Stadt",
+                    "id": 3771,
+                    "gkz": "09161000",
+                    "ars": "091610000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 5,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "jena",
+                    "name": "Jena",
+                    "title": "Jena, kreisfreie Stadt",
+                    "id": 7685,
+                    "gkz": "16053000",
+                    "ars": "160530000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Thüringen"
+                },
+                {
+                    "friendlyUrl": "kaiserslautern",
+                    "name": "Kaiserslautern",
+                    "title": "Kaiserslautern, kreisfreie Stadt",
+                    "id": 2544,
+                    "gkz": "07312000",
+                    "ars": "073120000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "karlsruhe",
+                    "name": "Karlsruhe",
+                    "title": "Karlsruhe, kreisfreie Stadt",
+                    "id": 2989,
+                    "gkz": "08212000",
+                    "ars": "082120000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "kassel",
+                    "name": "Kassel",
+                    "title": "Kassel, kreisfreie Stadt",
+                    "id": 2296,
+                    "gkz": "06611000",
+                    "ars": "066110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Hessen"
+                },
+                {
+                    "friendlyUrl": "kaufbeuren",
+                    "name": "Kaufbeuren",
+                    "title": "Kaufbeuren, kreisfreie Stadt",
+                    "id": 5549,
+                    "gkz": "09762000",
+                    "ars": "097620000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "kempten-allgaeu",
+                    "name": "Kempten (Allgäu)",
+                    "title": "Kempten (Allgäu), kreisfreie Stadt",
+                    "id": 5550,
+                    "gkz": "09763000",
+                    "ars": "097630000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "kiel",
+                    "name": "Kiel",
+                    "title": "Kiel, kreisfreie Stadt",
+                    "id": 4,
+                    "gkz": "01002000",
+                    "ars": "010020000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Schleswig-Holstein"
+                },
+                {
+                    "friendlyUrl": "koblenz",
+                    "name": "Koblenz",
+                    "title": "Koblenz, kreisfreie Stadt",
+                    "id": 2439,
+                    "gkz": "07111000",
+                    "ars": "071110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "koeln",
+                    "name": "Köln",
+                    "title": "Köln, kreisfreie Stadt",
+                    "id": 1640,
+                    "gkz": "05315000",
+                    "ars": "053150000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "krefeld",
+                    "name": "Krefeld",
+                    "title": "Krefeld, kreisfreie Stadt",
+                    "id": 1571,
+                    "gkz": "05114000",
+                    "ars": "051140000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "landau-in-der-pfalz",
+                    "name": "Landau in der Pfalz",
+                    "title": "Landau in der Pfalz, kreisfreie Stadt",
+                    "id": 2545,
+                    "gkz": "07313000",
+                    "ars": "073130000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "landshut",
+                    "name": "Landshut",
+                    "title": "Landshut, kreisfreie Stadt",
+                    "id": 4291,
+                    "gkz": "09261000",
+                    "ars": "092610000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "leipzig",
+                    "name": "Leipzig",
+                    "title": "Leipzig, kreisfreie Stadt",
+                    "id": 7485,
+                    "gkz": "14713000",
+                    "ars": "147130000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Sachsen"
+                },
+                {
+                    "friendlyUrl": "leverkusen",
+                    "name": "Leverkusen",
+                    "title": "Leverkusen, kreisfreie Stadt",
+                    "id": 1641,
+                    "gkz": "05316000",
+                    "ars": "053160000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "luebeck",
+                    "name": "Lübeck",
+                    "title": "Lübeck, kreisfreie Stadt",
+                    "id": 5,
+                    "gkz": "01003000",
+                    "ars": "010030000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Schleswig-Holstein"
+                },
+                {
+                    "friendlyUrl": "ludwigshafen-am-rhein",
+                    "name": "Ludwigshafen am Rhein",
+                    "title": "Ludwigshafen am Rhein, kreisfreie Stadt",
+                    "id": 2546,
+                    "gkz": "07314000",
+                    "ars": "073140000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "magdeburg",
+                    "name": "Magdeburg",
+                    "title": "Magdeburg, kreisfreie Stadt",
+                    "id": 7551,
+                    "gkz": "15003000",
+                    "ars": "150030000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Sachsen-Anhalt"
+                },
+                {
+                    "friendlyUrl": "mainz",
+                    "name": "Mainz",
+                    "title": "Mainz, kreisfreie Stadt",
+                    "id": 2547,
+                    "gkz": "07315000",
+                    "ars": "073150000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "mannheim",
+                    "name": "Mannheim",
+                    "title": "Mannheim, kreisfreie Stadt",
+                    "id": 3048,
+                    "gkz": "08222000",
+                    "ars": "082220000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "memmingen",
+                    "name": "Memmingen",
+                    "title": "Memmingen, kreisfreie Stadt",
+                    "id": 5551,
+                    "gkz": "09764000",
+                    "ars": "097640000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 4,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "moenchengladbach",
+                    "name": "Mönchengladbach",
+                    "title": "Mönchengladbach, kreisfreie Stadt",
+                    "id": 1572,
+                    "gkz": "05116000",
+                    "ars": "051160000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "muelheim-an-der-ruhr",
+                    "name": "Mülheim an der Ruhr",
+                    "title": "Mülheim an der Ruhr, kreisfreie Stadt",
+                    "id": 1573,
+                    "gkz": "05117000",
+                    "ars": "051170000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "muenchen",
+                    "name": "München",
+                    "title": "München, kreisfreie Stadt",
+                    "id": 3772,
+                    "gkz": "09162000",
+                    "ars": "091620000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "muenster",
+                    "name": "Münster",
+                    "title": "Münster, kreisfreie Stadt",
+                    "id": 1748,
+                    "gkz": "05515000",
+                    "ars": "055150000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "neumuenster",
+                    "name": "Neumünster",
+                    "title": "Neumünster, kreisfreie Stadt",
+                    "id": 6,
+                    "gkz": "01004000",
+                    "ars": "010040000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Schleswig-Holstein"
+                },
+                {
+                    "friendlyUrl": "neustadt-an-der-weinstrasse",
+                    "name": "Neustadt an der Weinstraße",
+                    "title": "Neustadt an der Weinstraße, kreisfreie Stadt",
+                    "id": 2548,
+                    "gkz": "07316000",
+                    "ars": "073160000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 5,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "nuernberg",
+                    "name": "Nürnberg",
+                    "title": "Nürnberg, kreisfreie Stadt",
+                    "id": 5017,
+                    "gkz": "09564000",
+                    "ars": "095640000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "oberhausen",
+                    "name": "Oberhausen",
+                    "title": "Oberhausen, kreisfreie Stadt",
+                    "id": 1574,
+                    "gkz": "05119000",
+                    "ars": "051190000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "offenbach-am-main",
+                    "name": "Offenbach am Main",
+                    "title": "Offenbach am Main, kreisfreie Stadt",
+                    "id": 1998,
+                    "gkz": "06413000",
+                    "ars": "064130000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Hessen"
+                },
+                {
+                    "friendlyUrl": "oldenburg-oldenburg",
+                    "name": "Oldenburg (Oldenburg)",
+                    "title": "Oldenburg (Oldenburg), kreisfreie Stadt",
+                    "id": 1415,
+                    "gkz": "03403000",
+                    "ars": "034030000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "osnabrueck",
+                    "name": "Osnabrück",
+                    "title": "Osnabrück, kreisfreie Stadt",
+                    "id": 1416,
+                    "gkz": "03404000",
+                    "ars": "034040000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "passau",
+                    "name": "Passau",
+                    "title": "Passau, kreisfreie Stadt",
+                    "id": 4292,
+                    "gkz": "09262000",
+                    "ars": "092620000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "pforzheim",
+                    "name": "Pforzheim",
+                    "title": "Pforzheim, kreisfreie Stadt",
+                    "id": 3132,
+                    "gkz": "08231000",
+                    "ars": "082310000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "pirmasens",
+                    "name": "Pirmasens",
+                    "title": "Pirmasens, kreisfreie Stadt",
+                    "id": 2549,
+                    "gkz": "07317000",
+                    "ars": "073170000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "potsdam",
+                    "name": "Potsdam",
+                    "title": "Potsdam, kreisfreie Stadt",
+                    "id": 5962,
+                    "gkz": "12054000",
+                    "ars": "120540000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Brandenburg"
+                },
+                {
+                    "friendlyUrl": "regensburg",
+                    "name": "Regensburg",
+                    "title": "Regensburg, kreisfreie Stadt",
+                    "id": 4559,
+                    "gkz": "09362000",
+                    "ars": "093620000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "remscheid",
+                    "name": "Remscheid",
+                    "title": "Remscheid, kreisfreie Stadt",
+                    "id": 1575,
+                    "gkz": "05120000",
+                    "ars": "051200000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "rosenheim",
+                    "name": "Rosenheim",
+                    "title": "Rosenheim, kreisfreie Stadt",
+                    "id": 3773,
+                    "gkz": "09163000",
+                    "ars": "091630000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "rostock",
+                    "name": "Rostock",
+                    "title": "Rostock, kreisfreie Stadt",
+                    "id": 6387,
+                    "gkz": "13003000",
+                    "ars": "130030000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "friendlyUrl": "salzgitter",
+                    "name": "Salzgitter",
+                    "title": "Salzgitter, kreisfreie Stadt",
+                    "id": 1123,
+                    "gkz": "03102000",
+                    "ars": "031020000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "schwabach",
+                    "name": "Schwabach",
+                    "title": "Schwabach, kreisfreie Stadt",
+                    "id": 5018,
+                    "gkz": "09565000",
+                    "ars": "095650000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 5,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "schweinfurt",
+                    "name": "Schweinfurt",
+                    "title": "Schweinfurt, kreisfreie Stadt",
+                    "id": 5232,
+                    "gkz": "09662000",
+                    "ars": "096620000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "schwerin",
+                    "name": "Schwerin",
+                    "title": "Schwerin, kreisfreie Stadt",
+                    "id": 6388,
+                    "gkz": "13004000",
+                    "ars": "130040000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Mecklenburg-Vorpommern"
+                },
+                {
+                    "friendlyUrl": "solingen",
+                    "name": "Solingen",
+                    "title": "Solingen, kreisfreie Stadt",
+                    "id": 1576,
+                    "gkz": "05122000",
+                    "ars": "051220000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "speyer",
+                    "name": "Speyer",
+                    "title": "Speyer, kreisfreie Stadt",
+                    "id": 2550,
+                    "gkz": "07318000",
+                    "ars": "073180000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 5,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "straubing",
+                    "name": "Straubing",
+                    "title": "Straubing, kreisfreie Stadt",
+                    "id": 4293,
+                    "gkz": "09263000",
+                    "ars": "092630000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "stuttgart",
+                    "name": "Stuttgart",
+                    "title": "Stuttgart, kreisfreie Stadt",
+                    "id": 2634,
+                    "gkz": "08111000",
+                    "ars": "081110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "suhl",
+                    "name": "Suhl",
+                    "title": "Suhl, kreisfreie Stadt",
+                    "id": 7686,
+                    "gkz": "16054000",
+                    "ars": "160540000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 0,
+                    "parent": "Thüringen"
+                },
+                {
+                    "friendlyUrl": "trier",
+                    "name": "Trier",
+                    "title": "Trier, kreisfreie Stadt",
+                    "id": 2517,
+                    "gkz": "07211000",
+                    "ars": "072110000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "ulm",
+                    "name": "Ulm",
+                    "title": "Ulm, kreisfreie Stadt",
+                    "id": 3577,
+                    "gkz": "08421000",
+                    "ars": "084210000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Baden-Württemberg"
+                },
+                {
+                    "friendlyUrl": "weiden-in-der-oberpfalz",
+                    "name": "Weiden in der Oberpfalz",
+                    "title": "Weiden in der Oberpfalz, kreisfreie Stadt",
+                    "id": 4560,
+                    "gkz": "09363000",
+                    "ars": "093630000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "weimar",
+                    "name": "Weimar",
+                    "title": "Weimar, kreisfreie Stadt",
+                    "id": 7687,
+                    "gkz": "16055000",
+                    "ars": "160550000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Thüringen"
+                },
+                {
+                    "friendlyUrl": "wiesbaden",
+                    "name": "Wiesbaden",
+                    "title": "Wiesbaden, kreisfreie Stadt",
+                    "id": 1999,
+                    "gkz": "06414000",
+                    "ars": "064140000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Hessen"
+                },
+                {
+                    "friendlyUrl": "wilhelmshaven",
+                    "name": "Wilhelmshaven",
+                    "title": "Wilhelmshaven, kreisfreie Stadt",
+                    "id": 1417,
+                    "gkz": "03405000",
+                    "ars": "034050000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "wolfsburg",
+                    "name": "Wolfsburg",
+                    "title": "Wolfsburg, kreisfreie Stadt",
+                    "id": 1124,
+                    "gkz": "03103000",
+                    "ars": "031030000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 5,
+                    "parent": "Niedersachsen"
+                },
+                {
+                    "friendlyUrl": "worms",
+                    "name": "Worms",
+                    "title": "Worms, kreisfreie Stadt",
+                    "id": 2551,
+                    "gkz": "07319000",
+                    "ars": "073190000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 6,
+                    "parent": "Rheinland-Pfalz"
+                },
+                {
+                    "friendlyUrl": "wuppertal",
+                    "name": "Wuppertal",
+                    "title": "Wuppertal, kreisfreie Stadt",
+                    "id": 1577,
+                    "gkz": "05124000",
+                    "ars": "051240000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Nordrhein-Westfalen"
+                },
+                {
+                    "friendlyUrl": "wuerzburg",
+                    "name": "Würzburg",
+                    "title": "Würzburg, kreisfreie Stadt",
+                    "id": 5233,
+                    "gkz": "09663000",
+                    "ars": "096630000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 7,
+                    "parent": "Bayern"
+                },
+                {
+                    "friendlyUrl": "zweibruecken",
+                    "name": "Zweibrücken",
+                    "title": "Zweibrücken, kreisfreie Stadt",
+                    "id": 2552,
+                    "gkz": "07320000",
+                    "ars": "073200000000",
+                    "type": "KREISFREIE_STADT",
+                    "demographicType": 2,
+                    "parent": "Rheinland-Pfalz"
+                }
+            ]
+        }
+    ],
+    "indicatorsAndTopics": [
+        {
+            "id": 218,
+            "name": "PKW mit Elektroantrieb",
+            "title": "PKW mit Elektroantrieb - Ist-Daten",
+            "type": "COMMUNAL_DATA",
+            "explanation": "Der Anteil zugelassener Personenkraftwagen mit Elektroantrieb an allen zugelassenen Personenkraftwagen liegt bei x %. Die Daten sind nur auf Ebene der Kreise und kreisfreien Städte verfügbar.",
+            "hint": "",
+            "calculation": "(Anzahl der zugelassenen Personenkraftwagen mit Elektroantrieb (einschließlich Plug-in-Hybrid)) / (Anzahl der zugelassenen Personenkraftwagen) * 100",
+            "source": "Statistische Ämter der Länder, ZEFIR, eigene Berechnungen",
+            "unit": "%",
+            "decimalPlaces": 2,
+            "friendlyUrl": "pkw-mit-elektroantrieb",
+            "years": [
+                2020,
+                2021,
+                2022
+            ],
+            "minimumRegionType": "KREISFREIE_STADT",
+            "maximumRegionType": "BUNDESLAND",
+            "topLowRegionsAvailable": false,
+            "topics": [
+                "Nachhaltigkeit / SDGs"
+            ],
+            "colorSchema": "GREEN_DARK_TO_LIGHT"
+        }
+    ],
+    "renderer": "TABLE",
+    "mapOutline": null,
+    "years": [
+        2020,
+        2021,
+        2022
+    ],
+    "activeSelection": null,
+    "data": {
+        "type": "COMMUNAL_DATA",
+        "regions": [
+            {
+                "friendlyUrl": "amberg",
+                "name": "Amberg",
+                "title": "Amberg, kreisfreie Stadt",
+                "id": 4558,
+                "gkz": "09361000",
+                "ars": "093610000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "ansbach",
+                "name": "Ansbach",
+                "title": "Ansbach, kreisfreie Stadt",
+                "id": 5014,
+                "gkz": "09561000",
+                "ars": "095610000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "aschaffenburg",
+                "name": "Aschaffenburg",
+                "title": "Aschaffenburg, kreisfreie Stadt",
+                "id": 5231,
+                "gkz": "09661000",
+                "ars": "096610000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "augsburg",
+                "name": "Augsburg",
+                "title": "Augsburg, kreisfreie Stadt",
+                "id": 5548,
+                "gkz": "09761000",
+                "ars": "097610000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "baden-baden",
+                "name": "Baden-Baden",
+                "title": "Baden-Baden, kreisfreie Stadt",
+                "id": 2988,
+                "gkz": "08211000",
+                "ars": "082110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 10,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "bamberg",
+                "name": "Bamberg",
+                "title": "Bamberg, kreisfreie Stadt",
+                "id": 4791,
+                "gkz": "09461000",
+                "ars": "094610000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "bayreuth",
+                "name": "Bayreuth",
+                "title": "Bayreuth, kreisfreie Stadt",
+                "id": 4792,
+                "gkz": "09462000",
+                "ars": "094620000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "berlin",
+                "name": "Berlin",
+                "title": "Berlin",
+                "id": 5957,
+                "gkz": "11000000",
+                "ars": "110000000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Deutschland"
+            },
+            {
+                "friendlyUrl": "bielefeld",
+                "name": "Bielefeld",
+                "title": "Bielefeld, kreisfreie Stadt",
+                "id": 1829,
+                "gkz": "05711000",
+                "ars": "057110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "bochum",
+                "name": "Bochum",
+                "title": "Bochum, kreisfreie Stadt",
+                "id": 1905,
+                "gkz": "05911000",
+                "ars": "059110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "bonn",
+                "name": "Bonn",
+                "title": "Bonn, kreisfreie Stadt",
+                "id": 1639,
+                "gkz": "05314000",
+                "ars": "053140000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "bottrop",
+                "name": "Bottrop",
+                "title": "Bottrop, kreisfreie Stadt",
+                "id": 1746,
+                "gkz": "05512000",
+                "ars": "055120000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "brandenburg-an-der-havel",
+                "name": "Brandenburg an der Havel",
+                "title": "Brandenburg an der Havel, kreisfreie Stadt",
+                "id": 5959,
+                "gkz": "12051000",
+                "ars": "120510000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Brandenburg"
+            },
+            {
+                "friendlyUrl": "braunschweig",
+                "name": "Braunschweig",
+                "title": "Braunschweig, kreisfreie Stadt",
+                "id": 1122,
+                "gkz": "03101000",
+                "ars": "031010000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "bremen",
+                "name": "Bremen",
+                "title": "Bremen, kreisfreie Stadt",
+                "id": 1565,
+                "gkz": "04011000",
+                "ars": "040110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bremen"
+            },
+            {
+                "friendlyUrl": "bremerhaven",
+                "name": "Bremerhaven",
+                "title": "Bremerhaven, kreisfreie Stadt",
+                "id": 1566,
+                "gkz": "04012000",
+                "ars": "040120000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bremen"
+            },
+            {
+                "friendlyUrl": "chemnitz",
+                "name": "Chemnitz",
+                "title": "Chemnitz, kreisfreie Stadt",
+                "id": 7120,
+                "gkz": "14511000",
+                "ars": "145110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Sachsen"
+            },
+            {
+                "friendlyUrl": "coburg",
+                "name": "Coburg",
+                "title": "Coburg, kreisfreie Stadt",
+                "id": 4793,
+                "gkz": "09463000",
+                "ars": "094630000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "cottbus",
+                "name": "Cottbus",
+                "title": "Cottbus, kreisfreie Stadt",
+                "id": 5960,
+                "gkz": "12052000",
+                "ars": "120520000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Brandenburg"
+            },
+            {
+                "friendlyUrl": "darmstadt",
+                "name": "Darmstadt",
+                "title": "Darmstadt, kreisfreie Stadt",
+                "id": 1996,
+                "gkz": "06411000",
+                "ars": "064110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Hessen"
+            },
+            {
+                "friendlyUrl": "delmenhorst",
+                "name": "Delmenhorst",
+                "title": "Delmenhorst, kreisfreie Stadt",
+                "id": 1413,
+                "gkz": "03401000",
+                "ars": "034010000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "dessau-rosslau",
+                "name": "Dessau-Roßlau",
+                "title": "Dessau-Roßlau, kreisfreie Stadt",
+                "id": 7549,
+                "gkz": "15001000",
+                "ars": "150010000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 1,
+                "parent": "Sachsen-Anhalt"
+            },
+            {
+                "friendlyUrl": "dortmund",
+                "name": "Dortmund",
+                "title": "Dortmund, kreisfreie Stadt",
+                "id": 1906,
+                "gkz": "05913000",
+                "ars": "059130000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "dresden",
+                "name": "Dresden",
+                "title": "Dresden, kreisfreie Stadt",
+                "id": 7306,
+                "gkz": "14612000",
+                "ars": "146120000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Sachsen"
+            },
+            {
+                "friendlyUrl": "duisburg",
+                "name": "Duisburg",
+                "title": "Duisburg, kreisfreie Stadt",
+                "id": 1569,
+                "gkz": "05112000",
+                "ars": "051120000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "duesseldorf",
+                "name": "Düsseldorf",
+                "title": "Düsseldorf, kreisfreie Stadt",
+                "id": 1568,
+                "gkz": "05111000",
+                "ars": "051110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "emden",
+                "name": "Emden",
+                "title": "Emden, kreisfreie Stadt",
+                "id": 1414,
+                "gkz": "03402000",
+                "ars": "034020000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "erfurt",
+                "name": "Erfurt",
+                "title": "Erfurt, kreisfreie Stadt",
+                "id": 7683,
+                "gkz": "16051000",
+                "ars": "160510000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Thüringen"
+            },
+            {
+                "friendlyUrl": "erlangen",
+                "name": "Erlangen",
+                "title": "Erlangen, kreisfreie Stadt",
+                "id": 5015,
+                "gkz": "09562000",
+                "ars": "095620000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 11,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "essen",
+                "name": "Essen",
+                "title": "Essen, kreisfreie Stadt",
+                "id": 1570,
+                "gkz": "05113000",
+                "ars": "051130000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "flensburg",
+                "name": "Flensburg",
+                "title": "Flensburg, kreisfreie Stadt",
+                "id": 3,
+                "gkz": "01001000",
+                "ars": "010010000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Schleswig-Holstein"
+            },
+            {
+                "friendlyUrl": "frankenthal-pfalz",
+                "name": "Frankenthal (Pfalz)",
+                "title": "Frankenthal (Pfalz), kreisfreie Stadt",
+                "id": 2543,
+                "gkz": "07311000",
+                "ars": "073110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "frankfurt-am-main",
+                "name": "Frankfurt am Main",
+                "title": "Frankfurt am Main, kreisfreie Stadt",
+                "id": 1997,
+                "gkz": "06412000",
+                "ars": "064120000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Hessen"
+            },
+            {
+                "friendlyUrl": "frankfurt-oder",
+                "name": "Frankfurt (Oder)",
+                "title": "Frankfurt (Oder), kreisfreie Stadt",
+                "id": 5961,
+                "gkz": "12053000",
+                "ars": "120530000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Brandenburg"
+            },
+            {
+                "friendlyUrl": "freiburg-im-breisgau",
+                "name": "Freiburg im Breisgau",
+                "title": "Freiburg im Breisgau, kreisfreie Stadt",
+                "id": 3205,
+                "gkz": "08311000",
+                "ars": "083110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "fuerth",
+                "name": "Fürth",
+                "title": "Fürth, kreisfreie Stadt",
+                "id": 5016,
+                "gkz": "09563000",
+                "ars": "095630000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "gelsenkirchen",
+                "name": "Gelsenkirchen",
+                "title": "Gelsenkirchen, kreisfreie Stadt",
+                "id": 1747,
+                "gkz": "05513000",
+                "ars": "055130000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "gera",
+                "name": "Gera",
+                "title": "Gera, kreisfreie Stadt",
+                "id": 7684,
+                "gkz": "16052000",
+                "ars": "160520000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Thüringen"
+            },
+            {
+                "friendlyUrl": "hagen",
+                "name": "Hagen",
+                "title": "Hagen, kreisfreie Stadt",
+                "id": 1907,
+                "gkz": "05914000",
+                "ars": "059140000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "halle-saale",
+                "name": "Halle (Saale)",
+                "title": "Halle (Saale), kreisfreie Stadt",
+                "id": 7550,
+                "gkz": "15002000",
+                "ars": "150020000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Sachsen-Anhalt"
+            },
+            {
+                "friendlyUrl": "hamburg",
+                "name": "Hamburg",
+                "title": "Hamburg",
+                "id": 1120,
+                "gkz": "02000000",
+                "ars": "020000000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Deutschland"
+            },
+            {
+                "friendlyUrl": "hamm",
+                "name": "Hamm",
+                "title": "Hamm, kreisfreie Stadt",
+                "id": 1908,
+                "gkz": "05915000",
+                "ars": "059150000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "heidelberg",
+                "name": "Heidelberg",
+                "title": "Heidelberg, kreisfreie Stadt",
+                "id": 3047,
+                "gkz": "08221000",
+                "ars": "082210000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 11,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "heilbronn",
+                "name": "Heilbronn",
+                "title": "Heilbronn, kreisfreie Stadt",
+                "id": 2818,
+                "gkz": "08121000",
+                "ars": "081210000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "herne",
+                "name": "Herne",
+                "title": "Herne, kreisfreie Stadt",
+                "id": 1909,
+                "gkz": "05916000",
+                "ars": "059160000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "hof",
+                "name": "Hof",
+                "title": "Hof, kreisfreie Stadt",
+                "id": 4794,
+                "gkz": "09464000",
+                "ars": "094640000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "ingolstadt",
+                "name": "Ingolstadt",
+                "title": "Ingolstadt, kreisfreie Stadt",
+                "id": 3771,
+                "gkz": "09161000",
+                "ars": "091610000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 5,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "jena",
+                "name": "Jena",
+                "title": "Jena, kreisfreie Stadt",
+                "id": 7685,
+                "gkz": "16053000",
+                "ars": "160530000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Thüringen"
+            },
+            {
+                "friendlyUrl": "kaiserslautern",
+                "name": "Kaiserslautern",
+                "title": "Kaiserslautern, kreisfreie Stadt",
+                "id": 2544,
+                "gkz": "07312000",
+                "ars": "073120000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "karlsruhe",
+                "name": "Karlsruhe",
+                "title": "Karlsruhe, kreisfreie Stadt",
+                "id": 2989,
+                "gkz": "08212000",
+                "ars": "082120000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "kassel",
+                "name": "Kassel",
+                "title": "Kassel, kreisfreie Stadt",
+                "id": 2296,
+                "gkz": "06611000",
+                "ars": "066110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Hessen"
+            },
+            {
+                "friendlyUrl": "kaufbeuren",
+                "name": "Kaufbeuren",
+                "title": "Kaufbeuren, kreisfreie Stadt",
+                "id": 5549,
+                "gkz": "09762000",
+                "ars": "097620000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "kempten-allgaeu",
+                "name": "Kempten (Allgäu)",
+                "title": "Kempten (Allgäu), kreisfreie Stadt",
+                "id": 5550,
+                "gkz": "09763000",
+                "ars": "097630000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "kiel",
+                "name": "Kiel",
+                "title": "Kiel, kreisfreie Stadt",
+                "id": 4,
+                "gkz": "01002000",
+                "ars": "010020000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Schleswig-Holstein"
+            },
+            {
+                "friendlyUrl": "koblenz",
+                "name": "Koblenz",
+                "title": "Koblenz, kreisfreie Stadt",
+                "id": 2439,
+                "gkz": "07111000",
+                "ars": "071110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "koeln",
+                "name": "Köln",
+                "title": "Köln, kreisfreie Stadt",
+                "id": 1640,
+                "gkz": "05315000",
+                "ars": "053150000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "krefeld",
+                "name": "Krefeld",
+                "title": "Krefeld, kreisfreie Stadt",
+                "id": 1571,
+                "gkz": "05114000",
+                "ars": "051140000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "landau-in-der-pfalz",
+                "name": "Landau in der Pfalz",
+                "title": "Landau in der Pfalz, kreisfreie Stadt",
+                "id": 2545,
+                "gkz": "07313000",
+                "ars": "073130000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "landshut",
+                "name": "Landshut",
+                "title": "Landshut, kreisfreie Stadt",
+                "id": 4291,
+                "gkz": "09261000",
+                "ars": "092610000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "leipzig",
+                "name": "Leipzig",
+                "title": "Leipzig, kreisfreie Stadt",
+                "id": 7485,
+                "gkz": "14713000",
+                "ars": "147130000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Sachsen"
+            },
+            {
+                "friendlyUrl": "leverkusen",
+                "name": "Leverkusen",
+                "title": "Leverkusen, kreisfreie Stadt",
+                "id": 1641,
+                "gkz": "05316000",
+                "ars": "053160000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "luebeck",
+                "name": "Lübeck",
+                "title": "Lübeck, kreisfreie Stadt",
+                "id": 5,
+                "gkz": "01003000",
+                "ars": "010030000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Schleswig-Holstein"
+            },
+            {
+                "friendlyUrl": "ludwigshafen-am-rhein",
+                "name": "Ludwigshafen am Rhein",
+                "title": "Ludwigshafen am Rhein, kreisfreie Stadt",
+                "id": 2546,
+                "gkz": "07314000",
+                "ars": "073140000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "magdeburg",
+                "name": "Magdeburg",
+                "title": "Magdeburg, kreisfreie Stadt",
+                "id": 7551,
+                "gkz": "15003000",
+                "ars": "150030000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Sachsen-Anhalt"
+            },
+            {
+                "friendlyUrl": "mainz",
+                "name": "Mainz",
+                "title": "Mainz, kreisfreie Stadt",
+                "id": 2547,
+                "gkz": "07315000",
+                "ars": "073150000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "mannheim",
+                "name": "Mannheim",
+                "title": "Mannheim, kreisfreie Stadt",
+                "id": 3048,
+                "gkz": "08222000",
+                "ars": "082220000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "memmingen",
+                "name": "Memmingen",
+                "title": "Memmingen, kreisfreie Stadt",
+                "id": 5551,
+                "gkz": "09764000",
+                "ars": "097640000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 4,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "moenchengladbach",
+                "name": "Mönchengladbach",
+                "title": "Mönchengladbach, kreisfreie Stadt",
+                "id": 1572,
+                "gkz": "05116000",
+                "ars": "051160000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "muelheim-an-der-ruhr",
+                "name": "Mülheim an der Ruhr",
+                "title": "Mülheim an der Ruhr, kreisfreie Stadt",
+                "id": 1573,
+                "gkz": "05117000",
+                "ars": "051170000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "muenchen",
+                "name": "München",
+                "title": "München, kreisfreie Stadt",
+                "id": 3772,
+                "gkz": "09162000",
+                "ars": "091620000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "muenster",
+                "name": "Münster",
+                "title": "Münster, kreisfreie Stadt",
+                "id": 1748,
+                "gkz": "05515000",
+                "ars": "055150000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "neumuenster",
+                "name": "Neumünster",
+                "title": "Neumünster, kreisfreie Stadt",
+                "id": 6,
+                "gkz": "01004000",
+                "ars": "010040000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Schleswig-Holstein"
+            },
+            {
+                "friendlyUrl": "neustadt-an-der-weinstrasse",
+                "name": "Neustadt an der Weinstraße",
+                "title": "Neustadt an der Weinstraße, kreisfreie Stadt",
+                "id": 2548,
+                "gkz": "07316000",
+                "ars": "073160000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 5,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "nuernberg",
+                "name": "Nürnberg",
+                "title": "Nürnberg, kreisfreie Stadt",
+                "id": 5017,
+                "gkz": "09564000",
+                "ars": "095640000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "oberhausen",
+                "name": "Oberhausen",
+                "title": "Oberhausen, kreisfreie Stadt",
+                "id": 1574,
+                "gkz": "05119000",
+                "ars": "051190000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "offenbach-am-main",
+                "name": "Offenbach am Main",
+                "title": "Offenbach am Main, kreisfreie Stadt",
+                "id": 1998,
+                "gkz": "06413000",
+                "ars": "064130000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Hessen"
+            },
+            {
+                "friendlyUrl": "oldenburg-oldenburg",
+                "name": "Oldenburg (Oldenburg)",
+                "title": "Oldenburg (Oldenburg), kreisfreie Stadt",
+                "id": 1415,
+                "gkz": "03403000",
+                "ars": "034030000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "osnabrueck",
+                "name": "Osnabrück",
+                "title": "Osnabrück, kreisfreie Stadt",
+                "id": 1416,
+                "gkz": "03404000",
+                "ars": "034040000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "passau",
+                "name": "Passau",
+                "title": "Passau, kreisfreie Stadt",
+                "id": 4292,
+                "gkz": "09262000",
+                "ars": "092620000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "pforzheim",
+                "name": "Pforzheim",
+                "title": "Pforzheim, kreisfreie Stadt",
+                "id": 3132,
+                "gkz": "08231000",
+                "ars": "082310000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "pirmasens",
+                "name": "Pirmasens",
+                "title": "Pirmasens, kreisfreie Stadt",
+                "id": 2549,
+                "gkz": "07317000",
+                "ars": "073170000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "potsdam",
+                "name": "Potsdam",
+                "title": "Potsdam, kreisfreie Stadt",
+                "id": 5962,
+                "gkz": "12054000",
+                "ars": "120540000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Brandenburg"
+            },
+            {
+                "friendlyUrl": "regensburg",
+                "name": "Regensburg",
+                "title": "Regensburg, kreisfreie Stadt",
+                "id": 4559,
+                "gkz": "09362000",
+                "ars": "093620000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "remscheid",
+                "name": "Remscheid",
+                "title": "Remscheid, kreisfreie Stadt",
+                "id": 1575,
+                "gkz": "05120000",
+                "ars": "051200000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "rosenheim",
+                "name": "Rosenheim",
+                "title": "Rosenheim, kreisfreie Stadt",
+                "id": 3773,
+                "gkz": "09163000",
+                "ars": "091630000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "rostock",
+                "name": "Rostock",
+                "title": "Rostock, kreisfreie Stadt",
+                "id": 6387,
+                "gkz": "13003000",
+                "ars": "130030000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Mecklenburg-Vorpommern"
+            },
+            {
+                "friendlyUrl": "salzgitter",
+                "name": "Salzgitter",
+                "title": "Salzgitter, kreisfreie Stadt",
+                "id": 1123,
+                "gkz": "03102000",
+                "ars": "031020000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "schwabach",
+                "name": "Schwabach",
+                "title": "Schwabach, kreisfreie Stadt",
+                "id": 5018,
+                "gkz": "09565000",
+                "ars": "095650000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 5,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "schweinfurt",
+                "name": "Schweinfurt",
+                "title": "Schweinfurt, kreisfreie Stadt",
+                "id": 5232,
+                "gkz": "09662000",
+                "ars": "096620000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "schwerin",
+                "name": "Schwerin",
+                "title": "Schwerin, kreisfreie Stadt",
+                "id": 6388,
+                "gkz": "13004000",
+                "ars": "130040000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Mecklenburg-Vorpommern"
+            },
+            {
+                "friendlyUrl": "solingen",
+                "name": "Solingen",
+                "title": "Solingen, kreisfreie Stadt",
+                "id": 1576,
+                "gkz": "05122000",
+                "ars": "051220000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "speyer",
+                "name": "Speyer",
+                "title": "Speyer, kreisfreie Stadt",
+                "id": 2550,
+                "gkz": "07318000",
+                "ars": "073180000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 5,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "straubing",
+                "name": "Straubing",
+                "title": "Straubing, kreisfreie Stadt",
+                "id": 4293,
+                "gkz": "09263000",
+                "ars": "092630000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "stuttgart",
+                "name": "Stuttgart",
+                "title": "Stuttgart, kreisfreie Stadt",
+                "id": 2634,
+                "gkz": "08111000",
+                "ars": "081110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "suhl",
+                "name": "Suhl",
+                "title": "Suhl, kreisfreie Stadt",
+                "id": 7686,
+                "gkz": "16054000",
+                "ars": "160540000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 0,
+                "parent": "Thüringen"
+            },
+            {
+                "friendlyUrl": "trier",
+                "name": "Trier",
+                "title": "Trier, kreisfreie Stadt",
+                "id": 2517,
+                "gkz": "07211000",
+                "ars": "072110000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "ulm",
+                "name": "Ulm",
+                "title": "Ulm, kreisfreie Stadt",
+                "id": 3577,
+                "gkz": "08421000",
+                "ars": "084210000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Baden-Württemberg"
+            },
+            {
+                "friendlyUrl": "weiden-in-der-oberpfalz",
+                "name": "Weiden in der Oberpfalz",
+                "title": "Weiden in der Oberpfalz, kreisfreie Stadt",
+                "id": 4560,
+                "gkz": "09363000",
+                "ars": "093630000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "weimar",
+                "name": "Weimar",
+                "title": "Weimar, kreisfreie Stadt",
+                "id": 7687,
+                "gkz": "16055000",
+                "ars": "160550000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Thüringen"
+            },
+            {
+                "friendlyUrl": "wiesbaden",
+                "name": "Wiesbaden",
+                "title": "Wiesbaden, kreisfreie Stadt",
+                "id": 1999,
+                "gkz": "06414000",
+                "ars": "064140000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Hessen"
+            },
+            {
+                "friendlyUrl": "wilhelmshaven",
+                "name": "Wilhelmshaven",
+                "title": "Wilhelmshaven, kreisfreie Stadt",
+                "id": 1417,
+                "gkz": "03405000",
+                "ars": "034050000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "wolfsburg",
+                "name": "Wolfsburg",
+                "title": "Wolfsburg, kreisfreie Stadt",
+                "id": 1124,
+                "gkz": "03103000",
+                "ars": "031030000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 5,
+                "parent": "Niedersachsen"
+            },
+            {
+                "friendlyUrl": "worms",
+                "name": "Worms",
+                "title": "Worms, kreisfreie Stadt",
+                "id": 2551,
+                "gkz": "07319000",
+                "ars": "073190000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 6,
+                "parent": "Rheinland-Pfalz"
+            },
+            {
+                "friendlyUrl": "wuppertal",
+                "name": "Wuppertal",
+                "title": "Wuppertal, kreisfreie Stadt",
+                "id": 1577,
+                "gkz": "05124000",
+                "ars": "051240000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Nordrhein-Westfalen"
+            },
+            {
+                "friendlyUrl": "wuerzburg",
+                "name": "Würzburg",
+                "title": "Würzburg, kreisfreie Stadt",
+                "id": 5233,
+                "gkz": "09663000",
+                "ars": "096630000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 7,
+                "parent": "Bayern"
+            },
+            {
+                "friendlyUrl": "zweibruecken",
+                "name": "Zweibrücken",
+                "title": "Zweibrücken, kreisfreie Stadt",
+                "id": 2552,
+                "gkz": "07320000",
+                "ars": "073200000000",
+                "type": "KREISFREIE_STADT",
+                "demographicType": 2,
+                "parent": "Rheinland-Pfalz"
+            }
+        ],
+        "indicators": [
+            {
+                "id": 218,
+                "friendlyUrl": "pkw-mit-elektroantrieb",
+                "name": "PKW mit Elektroantrieb",
+                "unit": "%",
+                "minValue": 0.18,
+                "maxValue": 10.91,
+                "regionYearValues": [
+                    [
+                        0.68,
+                        1.47,
+                        2.84
+                    ],
+                    [
+                        0.65,
+                        1.23,
+                        2.46
+                    ],
+                    [
+                        0.49,
+                        1.71,
+                        3.66
+                    ],
+                    [
+                        0.5,
+                        1.26,
+                        2.51
+                    ],
+                    [
+                        0.73,
+                        1.75,
+                        3.4
+                    ],
+                    [
+                        0.74,
+                        1.42,
+                        2.64
+                    ],
+                    [
+                        0.56,
+                        1.56,
+                        3.0
+                    ],
+                    [
+                        0.69,
+                        1.47,
+                        2.75
+                    ],
+                    [
+                        0.82,
+                        1.76,
+                        3.22
+                    ],
+                    [
+                        0.51,
+                        1.22,
+                        2.65
+                    ],
+                    [
+                        0.62,
+                        1.56,
+                        3.02
+                    ],
+                    [
+                        0.31,
+                        0.85,
+                        1.85
+                    ],
+                    [
+                        0.3,
+                        0.89,
+                        1.95
+                    ],
+                    [
+                        1.1,
+                        2.9,
+                        4.89
+                    ],
+                    [
+                        0.48,
+                        1.26,
+                        2.4
+                    ],
+                    [
+                        0.34,
+                        0.82,
+                        1.76
+                    ],
+                    [
+                        0.32,
+                        0.88,
+                        1.9
+                    ],
+                    [
+                        0.5,
+                        1.2,
+                        2.54
+                    ],
+                    [
+                        0.22,
+                        0.7,
+                        1.45
+                    ],
+                    [
+                        0.94,
+                        1.97,
+                        3.61
+                    ],
+                    [
+                        0.29,
+                        0.83,
+                        1.83
+                    ],
+                    [
+                        0.27,
+                        0.68,
+                        1.45
+                    ],
+                    [
+                        0.51,
+                        1.25,
+                        2.63
+                    ],
+                    [
+                        0.46,
+                        1.06,
+                        1.97
+                    ],
+                    [
+                        0.25,
+                        0.73,
+                        1.66
+                    ],
+                    [
+                        0.82,
+                        2.2,
+                        4.21
+                    ],
+                    [
+                        0.3,
+                        0.91,
+                        2.66
+                    ],
+                    [
+                        0.5,
+                        1.14,
+                        2.19
+                    ],
+                    [
+                        0.72,
+                        1.57,
+                        2.92
+                    ],
+                    [
+                        0.61,
+                        1.46,
+                        2.86
+                    ],
+                    [
+                        0.59,
+                        1.3,
+                        2.79
+                    ],
+                    [
+                        0.45,
+                        0.99,
+                        2.01
+                    ],
+                    [
+                        0.85,
+                        2.18,
+                        5.17
+                    ],
+                    [
+                        0.27,
+                        0.66,
+                        1.24
+                    ],
+                    [
+                        0.8,
+                        1.7,
+                        3.02
+                    ],
+                    [
+                        0.57,
+                        1.22,
+                        2.39
+                    ],
+                    [
+                        0.35,
+                        0.81,
+                        1.79
+                    ],
+                    [
+                        0.21,
+                        0.66,
+                        1.52
+                    ],
+                    [
+                        0.41,
+                        1.0,
+                        2.09
+                    ],
+                    [
+                        0.25,
+                        0.73,
+                        1.49
+                    ],
+                    [
+                        0.73,
+                        1.78,
+                        3.39
+                    ],
+                    [
+                        0.32,
+                        0.96,
+                        2.09
+                    ],
+                    [
+                        0.72,
+                        1.55,
+                        2.95
+                    ],
+                    [
+                        0.6,
+                        1.36,
+                        2.75
+                    ],
+                    [
+                        0.28,
+                        0.7,
+                        1.56
+                    ],
+                    [
+                        0.43,
+                        1.37,
+                        2.43
+                    ],
+                    [
+                        1.58,
+                        5.1,
+                        7.04
+                    ],
+                    [
+                        0.43,
+                        1.11,
+                        2.04
+                    ],
+                    [
+                        0.47,
+                        1.29,
+                        2.73
+                    ],
+                    [
+                        0.82,
+                        1.85,
+                        3.67
+                    ],
+                    [
+                        0.57,
+                        1.44,
+                        3.07
+                    ],
+                    [
+                        0.43,
+                        1.04,
+                        2.18
+                    ],
+                    [
+                        0.57,
+                        1.45,
+                        2.78
+                    ],
+                    [
+                        0.56,
+                        1.28,
+                        2.47
+                    ],
+                    [
+                        0.48,
+                        1.36,
+                        2.9
+                    ],
+                    [
+                        0.65,
+                        1.75,
+                        3.43
+                    ],
+                    [
+                        0.41,
+                        1.19,
+                        2.32
+                    ],
+                    [
+                        0.54,
+                        1.51,
+                        3.01
+                    ],
+                    [
+                        0.65,
+                        1.31,
+                        2.58
+                    ],
+                    [
+                        0.49,
+                        1.07,
+                        2.28
+                    ],
+                    [
+                        0.46,
+                        1.55,
+                        2.9
+                    ],
+                    [
+                        0.5,
+                        1.2,
+                        2.29
+                    ],
+                    [
+                        0.77,
+                        1.36,
+                        2.36
+                    ],
+                    [
+                        0.41,
+                        0.93,
+                        1.73
+                    ],
+                    [
+                        0.71,
+                        1.44,
+                        2.81
+                    ],
+                    [
+                        0.55,
+                        1.55,
+                        2.94
+                    ],
+                    [
+                        0.49,
+                        1.13,
+                        2.43
+                    ],
+                    [
+                        0.43,
+                        1.1,
+                        2.33
+                    ],
+                    [
+                        0.51,
+                        1.27,
+                        2.7
+                    ],
+                    [
+                        1.52,
+                        2.59,
+                        4.72
+                    ],
+                    [
+                        0.78,
+                        1.85,
+                        3.42
+                    ],
+                    [
+                        0.31,
+                        1.44,
+                        2.64
+                    ],
+                    [
+                        0.5,
+                        1.07,
+                        2.24
+                    ],
+                    [
+                        0.58,
+                        1.31,
+                        2.46
+                    ],
+                    [
+                        0.25,
+                        0.78,
+                        1.88
+                    ],
+                    [
+                        0.53,
+                        1.58,
+                        3.0
+                    ],
+                    [
+                        0.49,
+                        1.42,
+                        2.99
+                    ],
+                    [
+                        0.66,
+                        1.5,
+                        3.07
+                    ],
+                    [
+                        0.57,
+                        1.42,
+                        2.96
+                    ],
+                    [
+                        0.56,
+                        1.37,
+                        2.79
+                    ],
+                    [
+                        0.35,
+                        0.98,
+                        2.1
+                    ],
+                    [
+                        0.6,
+                        1.32,
+                        2.51
+                    ],
+                    [
+                        0.83,
+                        1.69,
+                        3.31
+                    ],
+                    [
+                        0.42,
+                        1.13,
+                        2.44
+                    ],
+                    [
+                        0.55,
+                        1.2,
+                        2.35
+                    ],
+                    [
+                        0.29,
+                        0.75,
+                        1.69
+                    ],
+                    [
+                        0.26,
+                        0.62,
+                        1.5
+                    ],
+                    [
+                        0.67,
+                        1.42,
+                        2.85
+                    ],
+                    [
+                        0.75,
+                        1.93,
+                        3.66
+                    ],
+                    [
+                        0.3,
+                        0.79,
+                        1.52
+                    ],
+                    [
+                        0.48,
+                        1.45,
+                        3.11
+                    ],
+                    [
+                        0.45,
+                        1.12,
+                        2.08
+                    ],
+                    [
+                        0.43,
+                        1.26,
+                        2.86
+                    ],
+                    [
+                        1.73,
+                        4.16,
+                        6.73
+                    ],
+                    [
+                        0.18,
+                        0.72,
+                        1.52
+                    ],
+                    [
+                        0.53,
+                        1.38,
+                        3.3
+                    ],
+                    [
+                        0.75,
+                        1.7,
+                        3.19
+                    ],
+                    [
+                        0.34,
+                        1.1,
+                        2.52
+                    ],
+                    [
+                        5.22,
+                        5.86,
+                        3.7
+                    ],
+                    [
+                        0.7,
+                        2.52,
+                        7.26
+                    ],
+                    [
+                        0.2,
+                        0.51,
+                        1.33
+                    ],
+                    [
+                        1.91,
+                        10.91,
+                        9.46
+                    ],
+                    [
+                        0.64,
+                        1.05,
+                        2.04
+                    ],
+                    [
+                        0.59,
+                        1.26,
+                        2.56
+                    ],
+                    [
+                        0.72,
+                        1.75,
+                        3.22
+                    ],
+                    [
+                        0.32,
+                        0.97,
+                        2.25
+                    ]
+                ]
+            }
+        ],
+        "source": "Statistische Ämter der Länder, ZEFIR, eigene Berechnungen"
+    }
+}

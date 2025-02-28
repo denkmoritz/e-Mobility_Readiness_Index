@@ -1,0 +1,90 @@
+[2025-02-28T15:04:08Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/process/manager/base.py:509} INFO - Starting dummy manager
+[2025-02-28T15:04:08Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:568} INFO - Process manager plugin loaded
+[2025-02-28T15:08:12Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/process/manager/base.py:509} INFO - Starting dummy manager
+[2025-02-28T15:08:12Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:568} INFO - Process manager plugin loaded
+[2025-02-28T15:08:12Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3456
+ * Running on http://192.168.1.41:3456
+[2025-02-28T15:08:12Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - [33mPress CTRL+C to quit[0m
+[2025-02-28T15:08:12Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Restarting with stat
+[2025-02-28T15:08:13Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/process/manager/base.py:509} INFO - Starting dummy manager
+[2025-02-28T15:08:13Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:568} INFO - Process manager plugin loaded
+[2025-02-28T15:08:13Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} WARNING -  * Debugger is active!
+[2025-02-28T15:08:13Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Debugger PIN: 706-587-123
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'bbox'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'crs'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'name'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'bundesland'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'emri_2020'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'emri_2021'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'rel'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'type'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'title'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'href'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'rel'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'type'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'title'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'href'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'rel'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'type'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'title'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/l10n.py:87} WARNING - unknown locale 'href'
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:27] "GET /oapi/ HTTP/1.1" 200 -
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:27] "[33mGET /static/css/default.css HTTP/1.1[0m" 404 -
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:27] "[33mGET /static/img/pygeoapi.png HTTP/1.1[0m" 404 -
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:27] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:27] "GET /oapi/?f=jsonld HTTP/1.1" 200 -
+[2025-02-28T15:08:27Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:27] "[33mGET /static/img/favicon.ico HTTP/1.1[0m" 404 -
+[2025-02-28T15:08:52Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:52] "GET / HTTP/1.1" 200 -
+[2025-02-28T15:08:52Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:08:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-02-28T15:14:32Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:617} ERROR - Invalid format requested: geojson
+[2025-02-28T15:14:32Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:585} ERROR - Invalid format requested
+[2025-02-28T15:14:32Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:14:32] "[31m[1mGET /oapi/collections/emri/items?f=geojson HTTP/1.1[0m" 400 -
+[2025-02-28T15:18:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:23] "GET /oapi/collections/emri HTTP/1.1" 200 -
+[2025-02-28T15:18:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:23] "[33mGET /static/css/default.css HTTP/1.1[0m" 404 -
+[2025-02-28T15:18:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:23] "[33mGET /static/img/pygeoapi.png HTTP/1.1[0m" 404 -
+[2025-02-28T15:18:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:23] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+[2025-02-28T15:18:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:23] "[33mGET /static/img/logo.png HTTP/1.1[0m" 404 -
+[2025-02-28T15:18:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:23] "[33mGET /static/img/pygeoapi.png HTTP/1.1[0m" 404 -
+[2025-02-28T15:18:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:23] "GET /oapi/collections/emri?f=jsonld HTTP/1.1" 200 -
+[2025-02-28T15:18:32Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:18:32] "[33mGET /collections/emri/items HTTP/1.1[0m" 404 -
+[2025-02-28T15:25:41Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/itemtypes.py:244} WARNING - int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[2025-02-28T15:25:41Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/itemtypes.py:263} WARNING - int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[2025-02-28T15:25:41Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:25:41] "[35m[1mGET /oapi/collections/emri/items?f=json HTTP/1.1[0m" 500 -
+[2025-02-28T15:25:41Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:25:41] "GET /oapi/collections/emri/items?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2025-02-28T15:25:41Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:25:41] "GET /oapi/collections/emri/items?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2025-02-28T15:25:41Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:25:41] "GET /oapi/collections/emri/items?__debugger__=yes&cmd=resource&f=console.png&s=PsMUgP4KiqqV5XWuJKGA HTTP/1.1" 200 -
+[2025-02-28T15:25:41Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:25:41] "GET /oapi/collections/emri/items?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2025-02-28T15:28:32Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Detected change in '/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/app.py', reloading
+[2025-02-28T15:28:32Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Restarting with stat
+[2025-02-28T15:28:56Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/process/manager/base.py:509} INFO - Starting dummy manager
+[2025-02-28T15:28:56Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:568} INFO - Process manager plugin loaded
+[2025-02-28T15:28:56Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3456
+ * Running on http://192.168.1.41:3456
+[2025-02-28T15:28:56Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - [33mPress CTRL+C to quit[0m
+[2025-02-28T15:28:56Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Restarting with stat
+[2025-02-28T15:28:57Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/process/manager/base.py:509} INFO - Starting dummy manager
+[2025-02-28T15:28:57Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:568} INFO - Process manager plugin loaded
+[2025-02-28T15:28:57Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} WARNING -  * Debugger is active!
+[2025-02-28T15:28:57Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Debugger PIN: 706-587-123
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/process/manager/base.py:509} INFO - Starting dummy manager
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:568} INFO - Process manager plugin loaded
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3456
+ * Running on http://192.168.1.41:3456
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - [33mPress CTRL+C to quit[0m
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Restarting with stat
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/process/manager/base.py:509} INFO - Starting dummy manager
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/__init__.py:568} INFO - Process manager plugin loaded
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} WARNING -  * Debugger is active!
+[2025-02-28T15:30:11Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO -  * Debugger PIN: 706-587-123
+[2025-02-28T15:30:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/itemtypes.py:244} WARNING - int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[2025-02-28T15:30:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/pygeoapi/api/itemtypes.py:263} WARNING - int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+[2025-02-28T15:30:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:30:23] "[35m[1mGET /oapi/collections/emri/items?f=json HTTP/1.1[0m" 500 -
+[2025-02-28T15:30:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:30:23] "[36mGET /oapi/collections/emri/items?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-02-28T15:30:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:30:23] "[36mGET /oapi/collections/emri/items?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-02-28T15:30:23Z] {/Users/moritzdenk/Geoinformatics/Uni/SII/e-Mobility_Readiness_Index/venv/lib/python3.11/site-packages/werkzeug/_internal.py:97} INFO - 127.0.0.1 - - [28/Feb/2025 15:30:23] "GET /oapi/collections/emri/items?__debugger__=yes&cmd=resource&f=console.png&s=AoANVM4GILu8MBDaUP1o HTTP/1.1" 200 -
