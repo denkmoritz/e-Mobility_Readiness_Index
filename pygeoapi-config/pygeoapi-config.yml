@@ -101,13 +101,13 @@ resources:
           search_path: public
           table: emri
           id_field: id  # Primary key field
-          geom_field: geometry  # Geometry column (WGS 84 - SRID 4326)
+          geom_field: geom  # Geometry column (WGS 84 - SRID 4326)
           srid: 4326
           properties:
-            name: Name  # City or District Name
+            name: name  # City or District Name
             bundesland: bundesland  # Federal State
-            emri_2020: data_index_2020  # EMRI Score for 2020
-            emri_2021: data_index_2021  # EMRI Score for 2021
+            emri_2020: emri_2020  # EMRI Score for 2020
+            emri_2021: emri_2021  # EMRI Score for 2021
     links:
       - rel: self
         type: application/json

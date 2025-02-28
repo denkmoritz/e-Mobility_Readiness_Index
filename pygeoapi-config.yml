@@ -16,4 +16,4 @@ providers:
       dbname: gis
       user: docker
       password: docker
-      search_path: public
+      search_path: publicgg

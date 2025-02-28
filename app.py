@@ -9,7 +9,8 @@ OPENAPI_PATH = os.path.join(os.path.dirname(__file__), "pygeoapi-config", "opena
 os.environ["PYGEOAPI_CONFIG"] = CONFIG_PATH  # Set PyGeoAPI config path
 with open(CONFIG_PATH, "r") as file:
     config = yaml.safe_load(file)
-    print("Loaded PyGeoAPI Config:", config)  # Print the config on startup
+    print("Loaded Config Resources:", config["resources"])
+    # Print the config on startup
 os.environ["PYGEOAPI_OPENAPI"] = OPENAPI_PATH  # Set OpenAPI document path
 
 # Now import Flask and PyGeoAPI
